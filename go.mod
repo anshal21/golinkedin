@@ -1,3 +1,3 @@
-module github.com/tamboto2000/golinkedin
+module github.com/anshal21/golinkedin
 
 go 1.14
